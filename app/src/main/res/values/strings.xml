@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">prakt17_2</string>
+    <string name="pincode">Задайте пин-код</string>
+    <string name="setpincode">Задать пин-код</string>
+    <string name="press_pin_code">Введите пинкод</string>
+    <string name="press">Ввести</string>
+</resources>
